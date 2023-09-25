@@ -1,10 +1,29 @@
+.conatiner{
+	width:800px;
+	background-color:f5f5f5;
+}
+
+
 .body{
 	display:flex;
 }
 
 .latest-news-section{
 	
-	padding-inline:20px;
+	background-color:white;
 	width:120px
     
 }
+
+.header{
+	width:100%;
+	text-align:center;
+	color:white;
+    background-color:black;
+    padding:1px;
+
+}
+
+img{
+width:200px;
+height:200px;
